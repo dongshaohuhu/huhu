@@ -1,0 +1,11 @@
+require("./lib/spa.min");
+require("./lib/swiper-3.3.1.min");
+require("./views/index");
+require("./views/find");
+require("./views/my");
+require("./views/quit");
+require("./views/home");
+require("./views/guide");
+SPA.config({
+	indexView:'guide'
+})

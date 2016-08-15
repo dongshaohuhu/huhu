@@ -1,0 +1,12 @@
+<header>
+	<ul>
+		<li class="yo-ico left">&#xe745;</li>
+		<li class="nav">
+			<ul>
+				<li class="active">热点</li>
+				<li>关注</li>
+			</ul>
+		</li>
+		<li class="yo-ico right">&#xe684;</li>
+	</ul>
+</header>

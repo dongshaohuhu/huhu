@@ -1,0 +1,13 @@
+<div class="my-box" spa-widget="scroll" data-scroll-id="livenavScroll">
+   <ul>
+   <li>足球1</li>
+   <li>足球2</li>
+   <li>足球3</li>
+   <li>足球4</li>
+   <li>足球5</li>
+   <li>足球6</li>
+   <li>足球7</li>
+   <li>足球8</li>
+ </ul>
+</div>
+

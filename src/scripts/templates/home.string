@@ -1,0 +1,93 @@
+<div class="m-home">
+     <header>
+          <ul>
+            <li class="yo-ico menu">&#xe745;</li>
+            <li>
+               <ul>
+                <li class="active">热点</li>
+                <li>关注</li>
+               </ul>
+            </li>
+            <li class="yo-ico sm">&#xe684;</li>
+          </ul>
+      </header>
+      <nav>
+         <ul>
+            <li  class="active" action-type="tap.slide">足球生活</li>
+            <li action-type="tap.slide">足球现场</li>
+            <li action-type="tap.slide">足球美女</li>
+         </ul>
+      </nav>
+      <section spa-widget="scroll">
+          <div class="swiper-container" id="swiper-slide">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                 <div class="scroller">
+                     <ul>
+                       <li>
+                           <img src="images/img1.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                       <li></li>
+                       <li>
+                           <img src="images/img2.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                     </ul>
+                     <ul>
+                       <li>
+                           <img src="images/img1.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                       <li></li>
+                       <li>
+                           <img src="images/img2.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                     </ul>
+                     <ul>
+                       <li>
+                           <img src="images/img1.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                       <li></li>
+                       <li>
+                           <img src="images/img2.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                     </ul>
+                     <ul>
+                       <li>
+                           <img src="images/img1.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                       <li></li>
+                       <li>
+                           <img src="images/img2.jpg" alt="">
+                           <b>樱桃小丸子</b>
+                       </li>
+                     </ul>
+
+                 </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="is-box" spa-widget="scroll" data-scroll-id="livenavScroll">
+                  <ul>
+                   <li>足球1</li>
+                   <li>足球2</li>
+                   <li>足球3</li>
+                   <li>足球4</li>
+                   <li>足球5</li>
+                   <li>足球6</li>
+                   <li>足球7</li>
+                   <li>足球8</li>
+                 </ul>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                  足球美女
+              </div>
+            </div>
+          </div>
+  </section>
+</div>
