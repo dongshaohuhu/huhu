@@ -8,5 +8,6 @@ require("./views/home");
 require("./views/guide");
 SPA.config({
 	indexView:'guide'
+	console.log("index")
 })
-//你好么？
+//你好么？清除
